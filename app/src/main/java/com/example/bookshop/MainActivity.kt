@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
+//this is a text
 Button.setOnclickListener{
             val editTextEmailAddress = null
             val editTextTextPassword = null
